@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Helium-Proxy-Voting
+- 👋 Hi, I’m Working Title
 - 👀 I’m interested in decentralized physical infrastructure networks. 
 - 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on subdao imporvement proposals.
